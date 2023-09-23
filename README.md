@@ -1,6 +1,5 @@
 # Canvas Artwork: Six Figures Using HTML Canvas 🎨
 
-![Canvas Artwork Screenshot](path_to_your_screenshot.png)
 
 Welcome to my canvas homework! This project was crafted using HTML5's Canvas API, along with some vanilla JavaScript and CSS. It showcases six distinct figures, each demonstrating various features and capabilities of the Canvas API.
 
